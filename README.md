@@ -1,1 +1,1 @@
-# MManeuver-Detection-Using-Machine-Learning
+# Maneuver-Detection-Using-Machine-Learning
